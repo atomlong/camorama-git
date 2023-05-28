@@ -3,7 +3,7 @@
 # Contributor: Federico Quagliata (quaqo) <quaqo@despammed.com>
 
 pkgname=camorama-git
-pkgver=0.20.7_21_g1cee98a
+pkgver=0.21.2_22_gc0ac70c
 pkgrel=1
 pkgdesc="GNOME 2 Webcam application featuring various image filters"
 url="https://github.com/alessio/camorama"

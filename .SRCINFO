@@ -1,0 +1,23 @@
+pkgbase = camorama-git
+	pkgdesc = GNOME 2 Webcam application featuring various image filters
+	pkgver = 0.21.2_22_gc0ac70c
+	pkgrel = 1
+	url = https://github.com/alessio/camorama
+	arch = i686
+	arch = x86_64
+	arch = arm
+	arch = armv6h
+	arch = armv7h
+	arch = aarch64
+	license = GPL2
+	makedepends = git
+	makedepends = intltool
+	makedepends = gnome-common
+	makedepends = libv4l
+	depends = libgnomeui
+	provides = camorama
+	conflicts = camorama
+	source = git+https://github.com/alessio/camorama.git
+	sha512sums = SKIP
+
+pkgname = camorama-git
